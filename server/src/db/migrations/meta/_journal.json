@@ -15,6 +15,13 @@
       "when": 1752009575837,
       "tag": "0001_kind_giant_man",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752089431276,
+      "tag": "0002_parallel_azazel",
+      "breakpoints": true
     }
   ]
 }
