@@ -51,11 +51,11 @@ Para rodar o projeto localmente:
   npm install
   ```
 3. Coloque as informações necessárias no arquivo .env
-    ```plainText
-    PORT=
-    DATABASE_URL=
-    GEMINI_API_KEY=
-    ```
+  ```plainText
+  PORT=
+  DATABASE_URL=
+  GEMINI_API_KEY=
+  ```
 #### Preparando o banco de dados
 1. Execute as migrações do Drizzle:
   ```bash
@@ -70,15 +70,15 @@ Para rodar o projeto localmente:
 #### Executando o Projeto
 
 ##### Desenvolvimento
-```bash
-npm run dev
-```
+  ```bash
+  npm run dev
+  ```
 
 ##### Produção
-```bash
-npm run build
-npm start
-```
+  ```bash
+  npm run build
+  npm start
+  ```
 
 ### Client web
 
